@@ -1,0 +1,501 @@
+merchant_id,merchant_name,category
+M1000,Soto-Grant,Retail
+M1001,Anderson Group,Transport
+M1002,Smith-Haney,Food
+M1003,Berry-Willis,Transport
+M1004,Dunn PLC,
+M1005,Phillips-Ford,
+M1006,Dunlap- Bell and Bell,
+M1007,Henderson-Miller,Food
+M1008,Mercado Ltd,Bills
+M1009,Murphy-Campbell,Food
+M1010,Hernandez- Miller and Wilson,Transport
+M1011,Kim LLC,Bills
+M1012,George Group,Bills
+M1013,Adkins-Orr,Retail
+M1014,Ferguson- Sharp and Baxter,
+M1015,Fitzgerald- Myers and Harrison,Food
+M1016,Miller PLC,Retail
+M1017,Riggs-Myers,Transport
+M1018,Bailey- Morgan and Jones,Retail
+M1019,Williams Group,
+M1020,Vasquez Ltd,Retail
+M1021,Clayton Ltd,
+M1022,Rosario-Beasley,Bills
+M1023,Fowler- Calderon and Henson,Retail
+M1024,Barker Ltd,Transport
+M1025,Edwards- Barrett and Arnold,Retail
+M1026,Thomas-Camacho,Transport
+M1027,Smith Group,Transport
+M1028,Cortez-Meyer,Transport
+M1029,Wheeler Group,Food
+M1030,Wagner- Hawkins and Reynolds,Food
+M1031,Gallegos Ltd,Transport
+M1032,Stein-Jackson,Retail
+M1033,Hernandez- Lewis and Brooks,Retail
+M1034,Logan- Campos and Dean,Bills
+M1035,Johnston PLC,Food
+M1036,Powell- Fernandez and Barnes,Bills
+M1037,Donovan Group,Retail
+M1038,Neal-Johnson,Retail
+M1039,Stone and Sons,Food
+M1040,Leon- Rodriguez and Nguyen,
+M1041,Zimmerman- Garza and Lopez,Transport
+M1042,Harris PLC,
+M1043,Valenzuela-Gomez,Bills
+M1044,Williams Group,Retail
+M1045,Woods-Garcia,
+M1046,Wiley-Nguyen,Transport
+M1047,Calderon-Riddle,
+M1048,Mcpherson- Drake and Wells,Transport
+M1049,Miranda- Hall and Castaneda,
+M1050,Clark and Sons,Transport
+M1051,Wade LLC,
+M1052,Clark Group,Retail
+M1053,Conley- Pierce and Marks,Retail
+M1054,Snyder- Garcia and Conway,Food
+M1055,Benson- Willis and Kennedy,Transport
+M1056,Mercado Inc,Bills
+M1057,Davis-Holden,Food
+M1058,Blanchard-Johnson,Transport
+M1059,Foster- Waters and Martinez,
+M1060,Ruiz- Jensen and Jackson,
+M1061,Franklin Ltd,
+M1062,Ortega-Wilson,Bills
+M1063,Thompson-Long,Bills
+M1064,Hayes-Foley,
+M1065,Walls Group,Food
+M1066,Saunders PLC,Transport
+M1067,Smith-Taylor,Retail
+M1068,Rodriguez- Pena and Gordon,
+M1069,Simmons PLC,Food
+M1070,Allen- Mullen and Mejia,Food
+M1071,Watson Inc,Food
+M1072,Green- Andrews and Bennett,Bills
+M1073,Hughes- Jones and Pugh,
+M1074,Collins-Cameron,Transport
+M1075,Ruiz- Hamilton and Sanders,Retail
+M1076,Castillo-Mitchell,Transport
+M1077,Vega- James and Molina,Food
+M1078,Wilson- Jackson and Johnson,
+M1079,Sanchez- Nichols and Dickerson,Bills
+M1080,Smith-Mills,Bills
+M1081,Sanchez-Bennett,Food
+M1082,Rogers PLC,Bills
+M1083,Vasquez-Howard,Transport
+M1084,Gomez Group,Bills
+M1085,Gonzalez-Ferguson,
+M1086,Newman- Bradshaw and Thomas,Transport
+M1087,Holland-Tucker,Transport
+M1088,Peterson-Weeks,Bills
+M1089,Sloan-Oconnor,
+M1090,Berry and Sons,Food
+M1091,Pena-Benson,Transport
+M1092,Burns- White and Parrish,Retail
+M1093,Michael LLC,Transport
+M1094,Rice- Davis and Cox,Bills
+M1095,Gallagher-Simpson,Transport
+M1096,Massey-Martinez,Retail
+M1097,Pierce- Rodgers and King,Retail
+M1098,Howell- Hart and Hubbard,Retail
+M1099,Levy Group,Food
+M1100,Gross- Holmes and Nguyen,Retail
+M1101,Bentley Inc,Food
+M1102,Brown- Davis and Warren,
+M1103,Parrish Inc,Retail
+M1104,Stanley- Olson and Brooks,Retail
+M1105,Mitchell-Gonzalez,Transport
+M1106,Chandler LLC,
+M1107,Mason-Schmitt,Bills
+M1108,Haas Group,Retail
+M1109,Robinson-Benson,Bills
+M1110,Johnson LLC,
+M1111,Marshall Group,Food
+M1112,Johnson Ltd,Bills
+M1113,Davis- Mack and Mitchell,Bills
+M1114,Colon- Smith and Greer,
+M1115,Brown- Potter and Kelly,
+M1116,Travis Ltd,Retail
+M1117,Austin-Smith,Bills
+M1118,Carter-Ramirez,Retail
+M1119,Dunn and Sons,
+M1120,Norris LLC,Food
+M1121,Black-Williams,Retail
+M1122,Johnson-Fox,Bills
+M1123,Wells- Curry and Cooper,
+M1124,Hughes- Martin and Frazier,Transport
+M1125,Morgan PLC,Food
+M1126,Smith LLC,
+M1127,Vasquez-Johnson,
+M1128,Copeland- Simpson and Johnson,Retail
+M1129,Munoz-Johnson,
+M1130,Joseph- Burton and Hunt,Bills
+M1131,Thomas LLC,Food
+M1132,Yu- Stevenson and Perez,
+M1133,Freeman- Henderson and Higgins,Food
+M1134,Bolton-Cunningham,Food
+M1135,Alexander Ltd,Retail
+M1136,Fleming- Stephens and Christensen,Transport
+M1137,Zimmerman- Hernandez and Marsh,Food
+M1138,Torres- Miller and Gates,
+M1139,Graham- George and Becker,Transport
+M1140,Harris-Anderson,Retail
+M1141,Lee Group,Bills
+M1142,Long- Clark and Hurley,Bills
+M1143,Owens PLC,Bills
+M1144,Graham- Powers and Garrett,Food
+M1145,Hubbard and Sons,Transport
+M1146,Miller-Parker,Retail
+M1147,Barnes- Martin and Ayers,Transport
+M1148,Branch- Anderson and Burke,Food
+M1149,Dorsey LLC,
+M1150,Ruiz PLC,Retail
+M1151,Snyder- Bell and Mcmillan,Transport
+M1152,Elliott-Dominguez,Transport
+M1153,Cruz-Cook,Bills
+M1154,Ramirez Ltd,Transport
+M1155,Castro-Fischer,Transport
+M1156,Adams-Rice,Food
+M1157,Stevens PLC,Retail
+M1158,Buckley- Dawson and Lewis,
+M1159,Jackson LLC,Bills
+M1160,Lee-Thompson,Food
+M1161,Reed- Palmer and Wright,Transport
+M1162,Brown Inc,
+M1163,Pena LLC,Retail
+M1164,Hull- Hansen and Wolfe,Bills
+M1165,Madden- Smith and Riley,
+M1166,Pratt- Stevenson and Kim,Bills
+M1167,Garner-Fisher,Retail
+M1168,Morrison LLC,Transport
+M1169,Ayala and Sons,Retail
+M1170,Hicks Ltd,
+M1171,Jensen- Casey and Reid,Bills
+M1172,Campbell LLC,Transport
+M1173,Marks-Sanders,Transport
+M1174,Le Group,Transport
+M1175,Ford- Johnson and Harvey,Retail
+M1176,Archer- Farley and Brooks,Retail
+M1177,Walter Ltd,Transport
+M1178,Jones-Ford,Food
+M1179,Joseph- Velazquez and Brady,Bills
+M1180,Brown Ltd,Transport
+M1181,Castro- Reyes and Shannon,Retail
+M1182,Thomas Inc,Retail
+M1183,Medina Ltd,Bills
+M1184,Harper- Fry and Carpenter,Bills
+M1185,Burke PLC,Food
+M1186,Lynch- Lawrence and Cooke,Retail
+M1187,Johnson-Stephenson,
+M1188,Martin LLC,
+M1189,Jackson- Booth and Davila,Food
+M1190,Robinson- Shaw and Parrish,Bills
+M1191,Delgado-Nguyen,Retail
+M1192,Schaefer Group,Bills
+M1193,Glenn- Silva and Adams,Retail
+M1194,Lee-Ortega,Food
+M1195,Walker-Reynolds,Transport
+M1196,Wood Inc,Food
+M1197,Williams- Wilson and Eaton,Bills
+M1198,Cross Group,Bills
+M1199,Smith- Nash and Sosa,Transport
+M1200,Curry-Sutton,Transport
+M1201,Willis- Campbell and Bush,Transport
+M1202,Norman-Keith,Bills
+M1203,Carr LLC,Food
+M1204,Adams Ltd,
+M1205,Smith and Sons,Transport
+M1206,Baker and Sons,Retail
+M1207,Burgess-Clark,Bills
+M1208,Atkinson Inc,Bills
+M1209,Matthews Inc,Food
+M1210,Walls and Sons,Food
+M1211,Strickland-Rodriguez,Transport
+M1212,Ingram-Miller,Bills
+M1213,Cabrera- Arnold and Kelley,Retail
+M1214,Miller- Strong and Chang,Transport
+M1215,Baker Inc,Food
+M1216,Allison-Green,Retail
+M1217,Henderson- Kelly and Larson,Food
+M1218,Nelson Group,Transport
+M1219,Martinez-Curtis,Retail
+M1220,Mclaughlin- Obrien and Cherry,Food
+M1221,Porter Ltd,Bills
+M1222,Gates- Morales and Valdez,Bills
+M1223,Wright- Thompson and Cunningham,Transport
+M1224,Mata- Smith and Castro,Retail
+M1225,Lamb-Carlson,Food
+M1226,Reyes PLC,Food
+M1227,Frost- Porter and Fry,Bills
+M1228,Thompson-Rodriguez,Transport
+M1229,Graham Inc,Retail
+M1230,Ross- Taylor and Garcia,Bills
+M1231,Reed-Jones,Bills
+M1232,Campos and Sons,
+M1233,Lopez- Fitzgerald and Hall,Bills
+M1234,Beck Ltd,Food
+M1235,Sanders Group,Transport
+M1236,Johnson- Bennett and Duncan,Bills
+M1237,Durham Inc,
+M1238,Donovan-Perez,Bills
+M1239,Hart- Vasquez and Hoffman,Food
+M1240,Lopez- Ferguson and Parsons,Retail
+M1241,Lopez-Daugherty,Retail
+M1242,Cervantes- Reed and Jacobs,Retail
+M1243,Cruz PLC,Food
+M1244,Tyler-Phillips,Food
+M1245,Weber-Green,Transport
+M1246,Villegas PLC,
+M1247,Johnson-Peck,Retail
+M1248,Crawford- Mccarthy and Martin,Food
+M1249,Rodriguez-Parker,Retail
+M1250,Cox Group,Transport
+M1251,Noble Ltd,Bills
+M1252,Moody- Taylor and Wiley,
+M1253,Smith- Gill and Thomas,Retail
+M1254,Frank Ltd,Bills
+M1255,Adams- Gray and Smith,Bills
+M1256,Harris-Johnson,Transport
+M1257,Scott-Smith,Transport
+M1258,Murphy-Lee,Bills
+M1259,Stevens- Dickerson and Smith,Retail
+M1260,Sanders-Long,Bills
+M1261,Griffin-Morton,Food
+M1262,Anderson-Schaefer,
+M1263,Page and Sons,Food
+M1264,Walton PLC,
+M1265,Mitchell-Gamble,Food
+M1266,Hoffman-Ashley,Food
+M1267,Young- Colon and Turner,Transport
+M1268,Brown- Adams and Zuniga,Retail
+M1269,West- Bruce and Martin,Transport
+M1270,Ellis- Davenport and Frazier,Food
+M1271,Cline- Garcia and Jimenez,Bills
+M1272,Houston Ltd,Food
+M1273,Miller-Olson,Bills
+M1274,Myers-Strong,Retail
+M1275,Harris- Sanchez and Caldwell,
+M1276,Green Inc,
+M1277,Taylor PLC,Food
+M1278,Reynolds-Ware,Food
+M1279,Long- Jimenez and Sullivan,
+M1280,Williams- Mack and Howard,Food
+M1281,Cox- Ruiz and Donovan,Food
+M1282,Gray- Khan and Turner,Retail
+M1283,Holt Ltd,Food
+M1284,Medina- Powell and Briggs,Bills
+M1285,Mendoza Group,Retail
+M1286,Chambers Inc,Transport
+M1287,Sanders PLC,Food
+M1288,Rice- Jones and Serrano,Food
+M1289,Nelson- Henry and Berry,Bills
+M1290,Cobb- Castillo and Morgan,Retail
+M1291,Wilson-Richardson,
+M1292,Wells- Zuniga and Johnson,Food
+M1293,Fuentes and Sons,Retail
+M1294,Perez- Newman and Austin,Retail
+M1295,Hernandez Ltd,Bills
+M1296,Butler LLC,Bills
+M1297,Williams- Scott and Golden,
+M1298,Weaver-Roberson,Transport
+M1299,Larson Group,Food
+M1300,Hale LLC,Food
+M1301,Hart-Young,Transport
+M1302,Delgado- Clark and Jacobson,Bills
+M1303,Young-Olsen,Bills
+M1304,Jefferson PLC,Retail
+M1305,Gibbs-Lara,
+M1306,Pugh- Young and Hall,Bills
+M1307,Robinson Ltd,Retail
+M1308,Duarte PLC,Transport
+M1309,Brown Ltd,Retail
+M1310,Kelly- Peters and Jacobs,Transport
+M1311,Gonzalez- Avila and Williams,Transport
+M1312,Williams- Flores and Vincent,Transport
+M1313,Brooks- Blair and Lee,Transport
+M1314,Jones- Harris and Gonzales,Bills
+M1315,Curry and Sons,Food
+M1316,Calhoun and Sons,Transport
+M1317,Young- Huynh and Graham,Retail
+M1318,Huang- Taylor and Durham,Food
+M1319,King and Sons,Retail
+M1320,Brown Group,Retail
+M1321,Acosta Inc,Retail
+M1322,Flores- Austin and Finley,Transport
+M1323,Hays and Sons,Food
+M1324,Rodriguez-Harris,Transport
+M1325,Williams-Bright,Bills
+M1326,Walker Ltd,Transport
+M1327,Mullins Group,
+M1328,Dixon-Hernandez,Retail
+M1329,Mcgee-Welch,Bills
+M1330,Brady Inc,Food
+M1331,Mendoza- Gonzalez and Delgado,Transport
+M1332,Williams- Nichols and Allen,Bills
+M1333,Scott PLC,Transport
+M1334,Walter Inc,Transport
+M1335,Fleming Group,Transport
+M1336,Phillips Inc,Retail
+M1337,Gamble-Cook,Retail
+M1338,Smith- Nelson and Long,Retail
+M1339,Bird Ltd,
+M1340,Wells PLC,Food
+M1341,Williams- Kramer and Foster,Transport
+M1342,Daniel-Morales,Transport
+M1343,Johnson- Terry and Johnson,Transport
+M1344,Sims- Summers and Duarte,
+M1345,Jimenez-Robinson,
+M1346,Taylor PLC,
+M1347,Vargas- Fowler and Lopez,Transport
+M1348,Cole Ltd,Food
+M1349,Mendoza-Jones,Transport
+M1350,Harmon- Brown and Gonzalez,Food
+M1351,Sullivan and Sons,
+M1352,Warner-Wilson,Bills
+M1353,Lambert Ltd,Retail
+M1354,Hughes-Gross,Retail
+M1355,Frazier-Watson,Food
+M1356,Campos Group,
+M1357,Pierce Group,Retail
+M1358,Ware LLC,Retail
+M1359,Snow-Williams,
+M1360,Sanchez-Guzman,Food
+M1361,Elliott Inc,Food
+M1362,Morales-Jimenez,Bills
+M1363,White-Ellis,Retail
+M1364,Cabrera Inc,Retail
+M1365,Vincent- Snyder and Cantrell,
+M1366,Cameron- Williamson and Jackson,
+M1367,Klein-Mercado,Transport
+M1368,Taylor- Chapman and Smith,Transport
+M1369,Thornton- Bass and Shields,Bills
+M1370,Powers Group,Food
+M1371,Cooper-Bradford,
+M1372,Lopez-Hayes,Food
+M1373,Rice and Sons,Retail
+M1374,Reed-Dixon,Food
+M1375,Griffin- Schmidt and Valencia,Food
+M1376,Huang-Ramirez,Bills
+M1377,Turner Inc,
+M1378,Bowen- Mueller and Alexander,Transport
+M1379,Sanders-Macias,
+M1380,Carlson Group,Transport
+M1381,Bates- Brown and Anderson,Transport
+M1382,Buckley- Davis and Rodgers,Bills
+M1383,Robertson-Harrington,Retail
+M1384,Burnett PLC,Bills
+M1385,Cook Group,Retail
+M1386,Chen-Wheeler,Bills
+M1387,Hall- Huff and Mclaughlin,Bills
+M1388,Burke-Fisher,
+M1389,James-Hopkins,
+M1390,Peterson-Marsh,Retail
+M1391,Walls-Greer,Food
+M1392,Ryan- Joseph and Smith,
+M1393,Perry-Reynolds,Transport
+M1394,Thomas-Gallagher,Food
+M1395,Payne and Sons,Transport
+M1396,Howe- Lam and Gonzalez,Retail
+M1397,Hurst- Logan and Wood,
+M1398,Cummings-Santos,Retail
+M1399,Larson LLC,Food
+M1400,Gray PLC,Bills
+M1401,Wood LLC,Bills
+M1402,Hernandez- Oconnor and Dyer,
+M1403,Long-Lowe,
+M1404,Garcia and Sons,Retail
+M1405,Evans-Henderson,Food
+M1406,Henry- Decker and Moore,Bills
+M1407,Harrison- Hawkins and Reeves,
+M1408,Case Ltd,Bills
+M1409,Cunningham- Mills and Hernandez,
+M1410,Bailey PLC,Bills
+M1411,Thompson-Gonzalez,Bills
+M1412,Stokes- Schmitt and Schmidt,
+M1413,Cox- Fuentes and Garcia,Transport
+M1414,Gordon-Durham,Food
+M1415,Smith- Luna and Owens,Food
+M1416,Brown- Jimenez and Dickerson,Retail
+M1417,Woods-Austin,Food
+M1418,Patel PLC,
+M1419,Barber- Bernard and Long,Food
+M1420,Reed-White,
+M1421,Rojas LLC,Retail
+M1422,Brown Group,
+M1423,Mills Inc,Bills
+M1424,Shannon-Padilla,
+M1425,Garrison-Warner,
+M1426,Jensen- Middleton and Ramsey,Transport
+M1427,Davis Inc,Transport
+M1428,Zimmerman PLC,Food
+M1429,Green-Schmidt,Transport
+M1430,Potter PLC,Transport
+M1431,French Group,
+M1432,Beard-Petersen,Retail
+M1433,Wu LLC,Food
+M1434,Harris- Delacruz and Hernandez,Food
+M1435,Becker Ltd,Retail
+M1436,Novak-Case,
+M1437,Scott PLC,Food
+M1438,Howard-Deleon,Transport
+M1439,Scott Ltd,Retail
+M1440,Tran LLC,Food
+M1441,Garcia- Baker and Gray,Transport
+M1442,Walker-Wong,Food
+M1443,Evans Inc,Transport
+M1444,Pearson- Clements and Mcintosh,Retail
+M1445,Mcintosh and Sons,Food
+M1446,Harris- Kaiser and Beck,Food
+M1447,Allen-Watson,
+M1448,Griffin-Ashley,Retail
+M1449,Lewis-Solomon,Retail
+M1450,Johnson- Moore and Phelps,Transport
+M1451,Alvarez PLC,
+M1452,Weaver Ltd,Transport
+M1453,Perez- Mcfarland and Dean,Transport
+M1454,Whitaker Inc,Retail
+M1455,Hayes and Sons,
+M1456,Lewis- Hernandez and Wilson,Transport
+M1457,Reynolds- Velez and Sweeney,Food
+M1458,Marshall- Bernard and Holmes,Bills
+M1459,Sims and Sons,
+M1460,Wilson-Watson,Transport
+M1461,Wilson- Mercer and Cruz,Transport
+M1462,Bullock- Hunt and Smith,Retail
+M1463,Huber-Norton,Retail
+M1464,Carlson- Kennedy and Brooks,Transport
+M1465,Griffin-Rodriguez,Food
+M1466,Summers and Sons,Transport
+M1467,Esparza- Orr and Alexander,Food
+M1468,Shelton- Gray and Moore,Transport
+M1469,Duran- Gomez and Durham,Retail
+M1470,Brown- Hill and Castro,
+M1471,Frazier-Smith,
+M1472,Sanders- Wilson and Sanchez,Retail
+M1473,Wood Inc,Bills
+M1474,Dunlap- Pitts and Hernandez,Transport
+M1475,Mason LLC,
+M1476,Terrell-Cooper,
+M1477,Schneider PLC,Food
+M1478,Mcbride- Duran and Brown,Bills
+M1479,Alvarez PLC,Food
+M1480,Carter Group,Transport
+M1481,Green PLC,Transport
+M1482,Nguyen-Johnson,Food
+M1483,Smith- Thompson and Zhang,
+M1484,Calhoun- Carlson and Hutchinson,Bills
+M1485,Mata-Burke,Food
+M1486,Proctor- Maynard and Blankenship,Bills
+M1487,Johnson- Johnson and Molina,Food
+M1488,Davies Group,Bills
+M1489,Molina-Phelps,Transport
+M1490,Adams Ltd,Food
+M1491,Beck-Cooley,Bills
+M1492,Edwards-Carey,Retail
+M1493,Berry-Hunter,Bills
+M1494,Gomez Ltd,Food
+M1495,Hill Group,Bills
+M1496,Perez- Davis and Sutton,Food
+M1497,Lewis-Lynn,Food
+M1498,Strickland Group,Food
+M1499,Webb- Rose and Taylor,
